@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculator.Datalayer/1.0.0": {
+        "dependencies": {
+          "Calculator.Interface": "1.0.0",
+          "Calculator.Models": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.Datalayer.dll": {}
+        }
+      },
+      "Calculator.Interface/1.0.0": {
+        "runtime": {
+          "Calculator.Interface.dll": {}
+        }
+      },
+      "Calculator.Models/1.0.0": {
+        "runtime": {
+          "Calculator.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator.Datalayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
